@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "published_at": "2026-09-20T18:00:00Z",
+  "android": {
+    "version": "0.17.8",
+    "download_url": "https://github.com/chetan1309-pro/TiltDrive-Releases/releases/latest",
+    "release_notes": "Added trusted automatic update checks every 24 hours and a manual Check for updates button. Steering and Touch Wheel auto-centering behavior are unchanged."
+  },
+  "windows": {
+    "version": "0.17.5",
+    "download_url": "https://github.com/chetan1309-pro/TiltDrive-Releases/releases/latest",
+    "release_notes": "Added automatic and manual update checks while retaining the smooth 120 Hz virtual-controller output."
+  }
+}
