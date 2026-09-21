@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "published_at": "2026-09-20T18:00:00Z",
+  "published_at": "2026-09-21T13:05:09Z",
   "android": {
-    "version": "0.17.8",
-    "download_url": "https://github.com/chetan1309-pro/TiltDrive-Releases/releases/latest",
-    "release_notes": "Added trusted automatic update checks every 24 hours and a manual Check for updates button. Steering and Touch Wheel auto-centering behavior are unchanged."
+    "version": "0.18.0",
+    "download_url": "https://github.com/chetan1309-pro/TiltDrive-Releases/releases/download/v0.18.0/TiltDrive%20v0.18.0.apk",
+    "release_notes": "Introduced Racing Garage with automatic game detection and AUTO, ASK FIRST, and OFF profile modes. TILT steering remains direct with no auto-centering, while Touch Wheel behavior is preserved."
   },
   "windows": {
-    "version": "0.17.5",
-    "download_url": "https://github.com/chetan1309-pro/TiltDrive-Releases/releases/latest",
-    "release_notes": "Added automatic and manual update checks while retaining the smooth 120 Hz virtual-controller output."
+    "version": "0.18.0",
+    "download_url": "https://github.com/chetan1309-pro/TiltDrive-Releases/releases/download/v0.18.0/TiltDriveReceiver_v0_18_0.exe",
+    "release_notes": "Added automatic detection for supported racing and driving games with layout and steering-profile recommendations while preserving the smooth 120 Hz virtual-controller output."
   }
 }
