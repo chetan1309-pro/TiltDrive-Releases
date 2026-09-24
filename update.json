@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "published_at": "2026-09-21T13:05:09Z",
+  "published_at": "2026-09-24T06:00:27Z",
   "android": {
-    "version": "0.18.0",
-    "download_url": "https://github.com/chetan1309-pro/TiltDrive-Releases/releases/download/v0.18.0/TiltDrive%20v0.18.0.apk",
-    "release_notes": "Introduced Racing Garage with automatic game detection and AUTO, ASK FIRST, and OFF profile modes. TILT steering remains direct with no auto-centering, while Touch Wheel behavior is preserved."
+    "version": "0.18.1",
+    "download_url": "https://github.com/chetan1309-pro/TiltDrive-Releases/releases/download/v0.18.1/SteerX-v0.18.1.apk",
+    "release_notes": "TiltDrive is now SteerX. This compatibility-safe rebrand preserves Racing Garage, smooth steering, Touch-only auto-centering and existing settings."
   },
   "windows": {
-    "version": "0.18.0",
-    "download_url": "https://github.com/chetan1309-pro/TiltDrive-Releases/releases/download/v0.18.0/TiltDriveReceiver_v0_18_0.exe",
-    "release_notes": "Added automatic detection for supported racing and driving games with layout and steering-profile recommendations while preserving the smooth 120 Hz virtual-controller output."
+    "version": "0.18.1",
+    "download_url": "https://github.com/chetan1309-pro/TiltDrive-Releases/releases/download/v0.18.1/SteerXReceiver_v0_18_1.exe",
+    "release_notes": "The Windows receiver is now SteerX Receiver, with refreshed branding and the same Bluetooth, telemetry, Racing Garage and 120 Hz steering behavior."
   }
 }
